@@ -14,4 +14,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("wbsFgtsfw");
         System.out.println("wsgfgfgrebFAFw");
     }
+    public void test(){
+        System.out.println("wozhenshizuil ");
+    }
 }
