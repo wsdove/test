@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("wozhenshiffzuil ");
     }
     public void test1(){
-        System.out.println("wozhenshizuil ");
+        System.out.println("wozhendddshizuil ");
     }
     public void test2(){
         System.out.println("wozhenshizuil ");
