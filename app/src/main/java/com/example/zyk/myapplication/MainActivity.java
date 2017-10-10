@@ -10,6 +10,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.println("ceshi tijiao");
-        System.out.println("wbw ceshi tijiohj");
+        System.out.println("wbw ceshi tijio" +
+                "" +
+                "hj");
     }
 }
