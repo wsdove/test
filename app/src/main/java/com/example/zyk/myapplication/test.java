@@ -5,4 +5,5 @@ package com.example.zyk.myapplication;
  */
 
 public class test {
+    private String name;
 }

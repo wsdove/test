@@ -16,8 +16,14 @@ public class MainActivity extends AppCompatActivity {
     }
     public void test(){
         System.out.println("wozhenshizuil ");
+        System.out.println("wozhenshiffzuil ");
     }
     public void test1(){
         System.out.println("wozhenshizuil ");
+        System.out.println("wozhenshiffzuil ");
+    }
+    public void test2(){
+        System.out.println("wozhenshizuil ");
+        System.out.println("wozhenshiffzuil ");
     }
 }
